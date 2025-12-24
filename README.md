@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Alisa and I am a student interesting in learning more about the IT world!
+
+- 🔭 I’m currently working on a personal productivity web app.
+- 🌱 I recently built a port scanner to get a better understanding on cyber security, check it out [here]https://github.com/AlsoLitmus/Port-Scanner
+- 👯 I’m looking to collaborate on projects written in C++ and in Python.
 
 
 <!--
